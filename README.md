@@ -2,7 +2,11 @@
 ![Crafting Exceptional Front-End Experiences with Modern Web Technologies](https://rahmanaripon.com/wp-content/uploads/2024/05/Untitled-design.png)
 <h1 align="center">Hi 👋, I'm Ataur Rahman Ripon</h1>
 <h3 align="center">Crafting Exceptional Front-End Experiences with Modern Web Technologies</h3>
-
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+Shamaun+Nabi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 Hello! I'm a passionate Front-End Developer with a keen eye for design and a knack for creating seamless user experiences. I specialize in React.js, JavaScript, and AngularJS, and I'm proficient in Tailwind CSS, Bootstrap, CSS, and HTML5. Additionally, I have experience working with WordPress to build dynamic and responsive websites. I focus on writing clean, efficient code and continuously learning to stay updated with the latest industry trends. Feel free to explore my repositories to see my projects and contributions. Let's connect and create something amazing together!
 
