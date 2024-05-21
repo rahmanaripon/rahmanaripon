@@ -1,3 +1,24 @@
+![Crafting Exceptional Front-End Experiences with Modern Web Technologies](https://rahmanaripon.com/wp-content/uploads/2024/05/Blue-Modern-Business-Facebook-Cover.png)
+### Hi there 👋, Hi 👋, I'm Ataur Rahman Ripon
+#### Crafting Exceptional Front-End Experiences with Modern Web Technologies
+
+
+Hello! I'm a passionate Front-End Developer with a keen eye for design and a knack for creating seamless user experiences. I specialize in React.js, JavaScript, and AngularJS, and I'm proficient in Tailwind CSS, Bootstrap, CSS, and HTML5. Additionally, I have experience working with WordPress to build dynamic and responsive websites. I focus on writing clean, efficient code and continuously learning to stay updated with the latest industry trends. Feel free to explore my repositories to see my projects and contributions. Let's connect and create something amazing together!
+
+Skills:  REACT /ANGULAR/ JS / HTML / CSS/WORDPRESS
+
+- 🔭 I’m currently working on RSBCARE360 
+- 🌱 I’m currently learning Angular 
+- 💬 Ask me about React, Wordpress 
+- 📫 How to reach me: contact@rahmanaripon.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahmanaripon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ataur-rahman-ripon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rahmanaripon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahman_ripon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rahmanaripon.com/)  
+
+![GitHub metrics](https://metrics.lecoq.io/rahmanaripon)  
+
+
+<--
 ## Hi there 👋
 
 
@@ -13,7 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <h1 align="center">Hi 👋, I'm Ataur Rahman Ripon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
